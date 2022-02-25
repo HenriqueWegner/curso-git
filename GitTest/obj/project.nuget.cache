@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZ7iah847iVRHKtEPGzDrJ5xF042eTOiKKFRD8U/zVVai5nxeVS0q0ulhEHAvvwj7E0dRu3lekJLGHxW+WDnyg==",
+  "success": true,
+  "projectFilePath": "D:\\Henrique\\C# Projects\\ws-vs2022\\GitTest\\GitTest\\GitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
