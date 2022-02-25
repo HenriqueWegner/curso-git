@@ -1,0 +1,16 @@
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\bin\Debug\net5.0\GitTest.exe
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\bin\Debug\net5.0\GitTest.deps.json
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\bin\Debug\net5.0\GitTest.runtimeconfig.json
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\bin\Debug\net5.0\GitTest.runtimeconfig.dev.json
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\bin\Debug\net5.0\GitTest.dll
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\bin\Debug\net5.0\ref\GitTest.dll
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\bin\Debug\net5.0\GitTest.pdb
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\GitTest.csproj.AssemblyReference.cache
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\GitTest.AssemblyInfoInputs.cache
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\GitTest.AssemblyInfo.cs
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\GitTest.csproj.CoreCompileInputs.cache
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\GitTest.dll
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\ref\GitTest.dll
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\GitTest.pdb
+D:\Henrique\C# Projects\ws-vs2022\GitTest\GitTest\obj\Debug\net5.0\GitTest.genruntimeconfig.cache
